@@ -21,7 +21,7 @@
     "individual": false
   },
   "dependencies": {
-    "min-document": "^2.6.1",
+    "min-document": "juliangruber/min-document#fixes",
     "process": "~0.5.1"
   },
   "devDependencies": {
